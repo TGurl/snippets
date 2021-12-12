@@ -1,7 +1,7 @@
 # Toml functions
 
 ## Read a Toml file
-```
+```python
 import toml
 
 def function read_toml(filename: str) -> list:
